@@ -1,0 +1,16 @@
+c:\users\502707467\documents\visual studio 2017\Projects\M.I.A\M.I.A\obj\Debug\M.I.A.csprojResolveAssemblyReference.cache
+c:\users\502707467\documents\visual studio 2017\Projects\M.I.A\M.I.A\obj\Debug\MainWindow.g.cs
+c:\users\502707467\documents\visual studio 2017\Projects\M.I.A\M.I.A\obj\Debug\App.g.cs
+c:\users\502707467\documents\visual studio 2017\Projects\M.I.A\M.I.A\obj\Debug\M.I.A_MarkupCompile.cache
+c:\users\502707467\documents\visual studio 2017\Projects\M.I.A\M.I.A\obj\Debug\M.I.A_MarkupCompile.lref
+c:\users\502707467\documents\visual studio 2017\Projects\M.I.A\M.I.A\obj\Debug\M.I.A.exe
+c:\users\502707467\documents\visual studio 2017\Projects\M.I.A\M.I.A\obj\Debug\M.I.A.pdb
+c:\users\502707467\documents\visual studio 2017\Projects\M.I.A\M.I.A\bin\Debug\M.I.A.exe.config
+c:\users\502707467\documents\visual studio 2017\Projects\M.I.A\M.I.A\bin\Debug\M.I.A.exe
+c:\users\502707467\documents\visual studio 2017\Projects\M.I.A\M.I.A\bin\Debug\M.I.A.pdb
+c:\users\502707467\documents\visual studio 2017\Projects\M.I.A\M.I.A\obj\Debug\MainWindow.baml
+c:\users\502707467\documents\visual studio 2017\Projects\M.I.A\M.I.A\obj\Debug\M.I.A.g.resources
+c:\users\502707467\documents\visual studio 2017\Projects\M.I.A\M.I.A\obj\Debug\M.I.A.Properties.Resources.resources
+c:\users\502707467\documents\visual studio 2017\Projects\M.I.A\M.I.A\obj\Debug\M.I.A.csproj.GenerateResource.Cache
+C:\Users\502707467\Documents\Visual Studio 2017\Projects\M.I.A\M.I.A\bin\Debug\WebDriver.dll
+C:\Users\502707467\Documents\Visual Studio 2017\Projects\M.I.A\M.I.A\bin\Debug\WebDriver.xml
